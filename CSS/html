@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>
+<body>
+<p> paragraph
+<br> break
+<img src="images/pink.jpg">
+<hr> horizontal row
+<table>
+<ol> ordered list
+<ul>
+<marquee>
+<a href="www.google.com.my"= target="_blank"> Hyperlink
+<blockquote>
+<audio>
+<embed src>
+<iframe> Youtube
+<css>
+a. Internal - <head><style><p{align-text:center;}
+</styles>
+b. External - <link rel="stylesheet" href="styles.css">
+c. Inline - <p styles="align-text:justify"
